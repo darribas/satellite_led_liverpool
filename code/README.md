@@ -1,5 +1,11 @@
 # Code
 
+| OS      | Status |
+| ------- | -----------------|
+| Linux   | [![Build Status](https://travis-ci.org/darribas/satellite_led_liverpool.svg?branch=master)](https://travis-ci.org/darribas/satellite_led_liverpool) |
+| Windows | [![Build status](https://ci.appveyor.com/api/projects/status/71lh6a7knkukl8j6?svg=true)](https://ci.appveyor.com/project/darribas/satellite-led-liverpool) |
+
+
 ## Structure
 
 This folder contains the code required to reproduce the results presented in
