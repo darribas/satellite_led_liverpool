@@ -4,7 +4,7 @@ This repository contains the data and code used in the paper ["Remote Sensing-Ba
 
 ## Citation
 
-```%bibtex
+```tex
 @article{10.1371/journal.pone.0176684,
     author = {Arribas-Bel, Daniel AND Patino, Jorge E. AND Duque, Juan C.},
     journal = {PLOS ONE},
