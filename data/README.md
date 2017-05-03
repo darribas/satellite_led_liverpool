@@ -83,7 +83,7 @@ We used the red, green and blue bands of the GE image as inputs to a supervised 
 
 Table 2. Accuracy assessment of GE image classification results.
 
-![]()
+![](table2.png)
 
 For a full description of the image processing workflow, see: 
 
