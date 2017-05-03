@@ -1,18 +1,14 @@
 # Description of Data
 
-**Location**: Liverpool city, England.
+## General information
 
-**Format**: Spatial database, GIS vector layer.
-
-**Spatial Unit of Analysis**: Lower Layer Super Output Area (LSOA).
-
-**Coordinate System**: EPSG 27700 OSGB 1936 British National Grid.
-
-**Format**: GeoJson vector file.
-
-**Geometry**: Polygon.
-
-**Number of features**: 298.
+* **Location**: Liverpool local authority, England.
+* **Format**: Spatial database, GIS vector layer.
+* **Spatial Unit of Analysis**: Lower Layer Super Output Area (LSOA).
+* **Coordinate System**: EPSG 27700 OSGB 1936 British National Grid.
+* **Format**: GeoJson vector file.
+* **Geometry**: Polygon.
+* **Number of features**: 298.
 
 Data used in this research corresponds to a polygon GeoJson file
 composed of 298 contiguous Lower Layer Super Output Areas (LSOA) of
@@ -23,9 +19,9 @@ Liverpool, England (Figure 1).
 <span id="_Ref355359566" class="anchor"></span>Figure 1. Living
 deprivation index (for 2015) at LSOA level in Liverpool.
 
-**Attributes:**
+## Attributes
 
-## The English Indices of Deprivation
+### The English Indices of Deprivation
 
 The Living Environment Deprivation index is one of the seven dimensions
 that compose the English Indices of Deprivation, which includes income;
@@ -60,7 +56,7 @@ Table 1. English indices of deprivation variables.
   `idaci`           | Score of the Income Deprivation Affecting Children Index
   `idaopi`          | Score of the Income Deprivation Affecting Older People Index
 
-## Remote sensing derived variables
+### Remote sensing derived variables
 
 We processed a satellite image of Liverpool city downloaded in February
 2016 from the Google Satellite Map web service with enough zoom level to
